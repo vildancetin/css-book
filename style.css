@@ -1,0 +1,53 @@
+.menu{
+    text-align: center;
+    border: 3px solid #DD4A48;
+}
+a{
+    color: #DD4A48;
+    text-decoration: none;
+}
+.menu li{
+    display: inline-block;
+    font-size: 32px;
+    padding-left: 30px;
+}
+.kitap{
+    margin: 15px;
+    display: inline-block;
+}
+.kitap a img{
+    padding-left:  25px;
+}
+#kitapLink{
+    padding-left:  50px; 
+    font-size: 23px;
+}
+.books li img{
+    width: 300px;
+    height: 450px;
+}
+.books li{
+    text-align: center;
+    list-style-position: inside;
+    padding-bottom: 20px;
+}
+.icerik{
+    width: 900px;
+    margin: 35px;
+    height: auto;
+    background-color: #F5EEDC;
+}
+.icerik p{
+    font-size: 21px;    
+}
+.icerik h1{
+    color: #DD4A48;
+}
+
+.sola{
+    float: left;
+    padding:0 10px 10px 0;
+}
+.pembe{
+    background-color: #F5EEDC;
+}
